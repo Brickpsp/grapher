@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'theta:grapher',
+  name: 'tawa:grapher',
   version: '1.3.7_1',
   // Brief, one-line summary of the package.
   summary: 'Grapher is a data fetching layer on top of Meteor',
